@@ -1,0 +1,100 @@
+c:\users\behlu\onedrive\documents\visual studio 2015\Projects\AiWPF\bin\Debug\AiWPF.exe.config
+c:\users\behlu\onedrive\documents\visual studio 2015\Projects\AiWPF\bin\Debug\AiWPF.exe
+c:\users\behlu\onedrive\documents\visual studio 2015\Projects\AiWPF\bin\Debug\AiWPF.pdb
+c:\users\behlu\onedrive\documents\visual studio 2015\Projects\AiWPF\obj\Debug\AiWPF_MarkupCompile.cache
+c:\users\behlu\onedrive\documents\visual studio 2015\Projects\AiWPF\obj\Debug\AiWPF_MarkupCompile.lref
+c:\users\behlu\onedrive\documents\visual studio 2015\Projects\AiWPF\obj\Debug\AiWPF.g.resources
+c:\users\behlu\onedrive\documents\visual studio 2015\Projects\AiWPF\obj\Debug\AiWPF.Properties.Resources.resources
+c:\users\behlu\onedrive\documents\visual studio 2015\Projects\AiWPF\obj\Debug\AiWPF.csproj.GenerateResource.Cache
+c:\users\behlu\onedrive\documents\visual studio 2015\Projects\AiWPF\obj\Debug\AiWPF.exe
+c:\users\behlu\onedrive\documents\visual studio 2015\Projects\AiWPF\obj\Debug\AiWPF.pdb
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\DevExpress.Mvvm.v17.1.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\DevExpress.Xpf.Controls.v17.1.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\DevExpress.Xpf.Core.v17.1.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\DevExpress.Mvvm.v17.1.xml
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\DevExpress.Xpf.Controls.v17.1.xml
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\DevExpress.Xpf.Core.v17.1.xml
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\de\DevExpress.Xpf.Controls.v17.1.resources.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\es\DevExpress.Xpf.Controls.v17.1.resources.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\ja\DevExpress.Xpf.Controls.v17.1.resources.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\ru\DevExpress.Xpf.Controls.v17.1.resources.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\de\DevExpress.Xpf.Core.v17.1.resources.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\es\DevExpress.Xpf.Core.v17.1.resources.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\ja\DevExpress.Xpf.Core.v17.1.resources.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\ru\DevExpress.Xpf.Core.v17.1.resources.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\obj\Debug\AiWPF.exe.licenses
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\WpfAnimatedGif.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\WpfAnimatedGif.xml
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\obj\Debug\GUIs\BusyIndicator.g.cs
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\obj\Debug\GUIs\InfoBox.g.cs
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\obj\Debug\GUIs\Table.g.cs
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\obj\Debug\GUIs\BusyIndicator.baml
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\obj\Debug\GUIs\InfoBox.baml
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\obj\Debug\GUIs\Table.baml
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\obj\Debug\App.g.cs
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\obj\Debug\GUIs\ControlKit.g.cs
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\obj\Debug\GUIs\ControlKit.baml
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\obj\Debug\AiWPF.csprojResolveAssemblyReference.cache
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\obj\Debug\GUIs\SaveDialog.g.cs
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\obj\Debug\GUIs\SaveDialog.baml
+C:\Users\behlu\OneDrive\Documents\Visual Studio 2015\Projects\AiWPF\bin\Debug\DevExpress.Images.v17.1.dll
+F:\Storage\Fakulete\AI_Project\AiWPF\bin\Debug\AiWPF.exe.config
+F:\Storage\Fakulete\AI_Project\AiWPF\obj\Debug\AiWPF.exe
+F:\Storage\Fakulete\AI_Project\AiWPF\obj\Debug\AiWPF.pdb
+F:\Storage\Fakulete\AI_Project\AiWPF\bin\Debug\AiWPF.exe
+F:\Storage\Fakulete\AI_Project\AiWPF\bin\Debug\AiWPF.pdb
+F:\Storage\Fakulete\AI_Project\AiWPF\obj\Debug\GUIs\BusyIndicator.g.cs
+F:\Storage\Fakulete\AI_Project\AiWPF\obj\Debug\GUIs\ControlKit.g.cs
+F:\Storage\Fakulete\AI_Project\AiWPF\obj\Debug\GUIs\InfoBox.g.cs
+F:\Storage\Fakulete\AI_Project\AiWPF\obj\Debug\GUIs\SaveDialog.g.cs
+F:\Storage\Fakulete\AI_Project\AiWPF\obj\Debug\GUIs\Table.g.cs
+F:\Storage\Fakulete\AI_Project\AiWPF\obj\Debug\App.g.cs
+F:\Storage\Fakulete\AI_Project\AiWPF\obj\Debug\AiWPF_MarkupCompile.cache
+F:\Storage\Fakulete\AI_Project\AiWPF\obj\Debug\AiWPF_MarkupCompile.lref
+F:\Storage\Fakulete\AI_Project\AiWPF\obj\Debug\GUIs\BusyIndicator.baml
+F:\Storage\Fakulete\AI_Project\AiWPF\obj\Debug\GUIs\ControlKit.baml
+F:\Storage\Fakulete\AI_Project\AiWPF\obj\Debug\GUIs\InfoBox.baml
+F:\Storage\Fakulete\AI_Project\AiWPF\obj\Debug\GUIs\SaveDialog.baml
+F:\Storage\Fakulete\AI_Project\AiWPF\obj\Debug\GUIs\Table.baml
+F:\Storage\Fakulete\AI_Project\AiWPF\obj\Debug\AiWPF.g.resources
+F:\Storage\Fakulete\AI_Project\AiWPF\obj\Debug\AiWPF.Properties.Resources.resources
+F:\Storage\Fakulete\AI_Project\AiWPF\obj\Debug\AiWPF.csproj.GenerateResource.Cache
+F:\Storage\Fakulete\AI_Project\AiWPF\obj\Debug\AiWPF.exe.licenses
+F:\Storage\Fakulete\AI_Project\AiWPF\obj\Debug\AiWPF.csprojResolveAssemblyReference.cache
+F:\Storage\Fakulete\AI_Project\AiWPF\obj\Debug\GUIs\DebugControl.g.cs
+F:\Storage\Fakulete\AI_Project\AiWPF\obj\Debug\GUIs\DebugControl.baml

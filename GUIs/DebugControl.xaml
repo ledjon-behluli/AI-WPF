@@ -1,0 +1,28 @@
+﻿<Window x:Class="AiWPF.GUIs.DebugControl"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AiWPF.GUIs"
+        mc:Ignorable="d"
+        Title="Debug" Height="205.264" Width="389.097" Icon="/Resources/debug.png" ResizeMode="NoResize">
+    <Grid>
+        <Label Content="Step delay (ms):" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="15,19,0,0" Width="164" FontSize="16"/>
+        <TextBox x:Name="txtAnimationSpeed" Text="30" HorizontalAlignment="Left" Height="23" Margin="184,27,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" TabIndex="2"/>
+        <Button x:Name="btnPlay" HorizontalAlignment="Left" Margin="136,76,0,0" VerticalAlignment="Top" Width="109" Height="79" Click="btnPlay_Click">
+            <StackPanel Orientation="Horizontal" Width="70" >
+                <Image HorizontalAlignment="Left" Margin="3, 2" Source="/Resources/play.png" Stretch="UniformToFill" Width="64" Height="64" />
+            </StackPanel>
+        </Button>
+        <Button x:Name="btnBackward" HorizontalAlignment="Left" Margin="13,93,0,0" VerticalAlignment="Top" Width="89" Height="46" Click="btnBackward_Click">
+            <StackPanel Orientation="Horizontal" Width="70" >
+                <Image HorizontalAlignment="Left" Margin="20, 2" Source="/Resources/backward.png" Stretch="UniformToFill" Width="32" Height="32" />
+            </StackPanel>
+        </Button>
+        <Button x:Name="btnForward" HorizontalAlignment="Left" Margin="279,93,0,0" VerticalAlignment="Top" Width="87" Height="46" Click="btnForward_Click">
+            <StackPanel Orientation="Horizontal" Width="70" >
+                <Image HorizontalAlignment="Left" Margin="20, 2" Source="/Resources/forward.png" Stretch="UniformToFill" Width="32" Height="32" />
+            </StackPanel>
+        </Button>
+    </Grid>
+</Window>
